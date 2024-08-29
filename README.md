@@ -38,5 +38,5 @@ Bem-vindo ao "Vida Terrestre: Campo e Cidade". Este site explora como a vida ter
 
 * **HTML:** Estrutura do site.
 * **CSS:** Estilização do site (arquivo `styles.css`).
-
+#Autor: Nicolly Pruchak
 ---
